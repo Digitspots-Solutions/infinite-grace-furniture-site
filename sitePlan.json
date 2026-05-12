@@ -1,0 +1,63 @@
+{
+  "businessName": "Infinite Grace Furniture",
+  "industry": "Fashion and Creative Design",
+  "tone": "creative and inspiring",
+  "tagline": "Where Fashion Meets Artistry",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Infinite Grace Furniture - Where Fashion Meets Artistry. We bring your creative vision to life through bespoke fashion design and innovative creative solutions. Based in the heart of Ibadan, we're redefining style for the modern Nigerian.",
+      "imagePrompt": "Photorealistic image of an elegant Nigerian fashion design studio in Ibadan, with vibrant African-print fabrics draped artistically, modern sewing equipment, sketches on mood boards, warm natural lighting streaming through large windows, contemporary interior with traditional Nigerian artistic touches, professional and inspiring atmosphere",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Infinite Grace Furniture is a creative powerhouse located in Ibadan North West, specializing in fashion and creative design. Our studio at Block 35, Mokola Barrack, is where imagination takes form. We blend contemporary fashion trends with Nigeria's rich cultural heritage to create unique, wearable art pieces. From custom clothing designs to creative consulting, we serve individuals and businesses who refuse to settle for ordinary. Our team of skilled designers and craftspeople are passionate about transforming your style vision into reality.",
+      "imagePrompt": "Photorealistic interior of a creative Nigerian fashion workshop showing diverse team of designers working on colorful fabric pieces, cutting tables with patterns, dress forms displaying elegant garments, walls decorated with fashion sketches and inspiration boards, warm inviting lighting, professional creative atmosphere in Ibadan setting",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Fashion Design: Bespoke clothing tailored to your exact specifications and measurements, from traditional attire to contemporary wear.\n\nCreative Consulting: Expert guidance on style, brand identity, and fashion direction for individuals and businesses.\n\nPattern Making & Tailoring: Professional pattern development and precision tailoring for perfect fits every time.\n\nFashion Illustration: Detailed sketches and design visualizations to bring your concepts to life.\n\nWardrobe Styling: Complete wardrobe curation and personal styling services for any occasion.\n\nFashion Production: End-to-end production services for fashion entrepreneurs and small brands.",
+      "imagePrompt": "Photorealistic collage showcasing various fashion design services: close-up of hands cutting premium fabric, colorful fashion sketches, elegant finished garments on hangers, tape measure and sewing tools, Nigerian model wearing custom-designed outfit, warm studio lighting, professional and artistic composition",
+      "layout": "grid"
+    },
+    {
+      "id": "portfolio",
+      "name": "Our Work",
+      "copy": "At Infinite Grace Furniture, every piece tells a story. Our portfolio showcases a diverse range of creative projects - from elegant evening wear to bold streetwear, from traditional Nigerian attire with modern twists to corporate fashion solutions. We've dressed individuals for their most important moments and helped brands establish distinctive visual identities. Each creation reflects our commitment to quality craftsmanship, innovative design, and the unique personality of our clients. Browse through our work and imagine what we can create for you.",
+      "imagePrompt": "Photorealistic gallery wall display of fashion photography showing diverse Nigerian models wearing various stunning custom designs, mix of traditional and contemporary pieces, vibrant colors and textures, professional photography with Ibadan urban backdrop, elegant presentation showcasing craftsmanship and creativity",
+      "layout": "grid"
+    },
+    {
+      "id": "process",
+      "name": "How We Work",
+      "copy": "Consultation: We begin with a detailed conversation to understand your vision, style preferences, and specific requirements.\n\nConcept Development: Our designers create sketches and mood boards, presenting options that align with your taste and occasion.\n\nMaterial Selection: Together, we choose premium fabrics, colors, and embellishments that bring your design to life.\n\nMeasurements & Fitting: Precise measurements ensure perfect fit. We schedule fittings to make necessary adjustments.\n\nCrafting Excellence: Our skilled team brings the design to reality with meticulous attention to detail.\n\nFinal Delivery: Your completed piece is delivered with care instructions and styling suggestions.",
+      "imagePrompt": "Photorealistic step-by-step visual representation of fashion design process in Nigerian studio: consultation meeting with fabric swatches, designer sketching, measuring tape around dress form, sewing machine in action, hands adjusting garment on client, final elegant outfit presentation, warm professional lighting",
+      "layout": "default"
+    },
+    {
+      "id": "testimonials",
+      "name": "What Clients Say",
+      "copy": "\"Infinite Grace Furniture transformed my wardrobe! The attention to detail and creative vision exceeded all my expectations. I felt like a queen at my wedding.\" - Blessing A., Ibadan\n\n\"Professional, creative, and reliable. They designed our company's uniform collection and the results were outstanding. Highly recommended!\" - Mr. Adeleke, Business Owner\n\n\"I've never felt more confident in my style. The team really listened and created pieces that reflect who I am. Worth every naira!\" - Chioma N., Fashion Enthusiast\n\n\"From concept to delivery, the experience was seamless. Their creativity knows no bounds, and the quality is unmatched in Ibadan.\" - Pastor Williams, Church Leader",
+      "imagePrompt": "Photorealistic image of satisfied Nigerian clients wearing elegant custom-designed outfits in various settings around Ibadan, genuine smiles, diverse ages and styles, professional photography, warm natural lighting, authentic testimonial atmosphere showing real people and real satisfaction",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to bring your fashion vision to life? Visit our studio or reach out today to schedule your consultation. Whether you have a clear idea or need creative guidance, we're here to make your style dreams a reality. Located at Block 35, Mokola Barrack, Ibadan North West, we welcome walk-ins and appointments. Let's create something extraordinary together.",
+      "imagePrompt": "Photorealistic image of welcoming Nigerian fashion studio storefront in Ibadan, 'Infinite Grace Furniture' signage, open door showing glimpse of colorful interior, street view of Mokola area, warm inviting lighting, professional yet approachable atmosphere, clear contact information visible",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 813 377 2854",
+    "email": "info@infinitegracefurniture.com",
+    "address": "Block 35, Mokola Barrack, Ibadan North West, Nigeria",
+    "whatsapp": "https://wa.me/2348133772854"
+  }
+}
